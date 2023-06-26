@@ -1,0 +1,3 @@
+.bpw-widget-btn:focus, .bpw-widget-btn:hover {
+    background-color: pink;
+}
